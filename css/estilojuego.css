@@ -1,0 +1,30 @@
+/*foto de fondo*/
+body {
+    background:black url("../img/espacio.jpg") no-repeat;
+}
+
+
+/*título juego*/
+#titulo1 {
+    color: forestgreen;
+    text-align: center;
+ }
+
+/*ubicación nave tomeu*/
+.ubicatomeu{
+	background: url("../img/navetomeu.png") no-repeat center;
+    padding: 200px;
+
+}
+
+/*ubicación y diseño texto final*/
+#textofin {
+	color: mediumseagreen;
+	text-align: center;
+}
+
+.centrado1 {
+	position: absolute;
+	bottom: 1px;
+	width: 100%;
+}
