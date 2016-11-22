@@ -8,3 +8,13 @@ Creación con código html y css de un juego denominado proyecto lunar.
 4. Diseñar las páginas necesarias para el juego.
 5. Probar la web en diferentes resoluciones y diferentes navegadores.
 
+##Enlaces a fuentes de las imágenes:
+Todas las imágenes que se han usado están etiquetadas con licencia de reutilización con modificaciones.
+El espacio es del siguiente enlace:
+[Imagen espacio]: http://www.publicdomainpictures.net/pictures/130000/velka/night-sky-background-14391263141jp.jpg
+
+La nave espacial:
+[Imagen nave espacial]: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alien_Spaceship_-_SVG_Vector.svg/2000px-Alien_Spaceship_-_SVG_Vector.svg.png
+
+La luna donde aterriza la nave espacial:
+[Imagen luna]: https://c1.staticflickr.com/9/8218/8276112196_5e8083de11_b.jpg
