@@ -10,6 +10,7 @@ Creación con código html y css de un juego denominado proyecto lunar.
 
 ##Enlaces a fuentes de las imágenes:
 Todas las imágenes que se han usado están etiquetadas con licencia de reutilización con modificaciones.
+
 El espacio es del siguiente enlace:
 [Imagen espacio]: http://www.publicdomainpictures.net/pictures/130000/velka/night-sky-background-14391263141jp.jpg
 
