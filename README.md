@@ -1,5 +1,5 @@
 # Juego-proyecto-lunar
-Creación con código html y css un juego de proyecto lunar
+Creación con código html y css de un juego denominado proyecto lunar.
 
 ##Fases del proyecto:
 1. Se ha realizado un boceto de lo que se solicita en la práctica, revisando el enunciado de la práctica y revisando los temas tratados en el foro de la asignatura, que han servido de gran ayuda para la elaboración del proyecto, entre los comentarios y ayuda de compañeros y del profesor.
