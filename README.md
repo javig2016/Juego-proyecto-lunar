@@ -20,5 +20,7 @@ La nave espacial:
 La luna donde aterriza la nave espacial:
 [Imagen luna](https://c1.staticflickr.com/9/8218/8276112196_5e8083de11_b.jpg)
 
-Se han retocado la gran mayoría de las imágenes con la herramienta de dibujo [GIMP](https://www.gimp.org/)
+Se han retocado la gran mayoría de las imágenes con la herramienta de dibujo [GIMP](https://www.gimp.org/).
+
+
 
