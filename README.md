@@ -22,5 +22,9 @@ La luna donde aterriza la nave espacial:
 
 Se han retocado la gran mayoría de las imágenes con la herramienta de dibujo [GIMP](https://www.gimp.org/).
 
+##Fuentes de ayuda:
+Para realizar dicha actividad a parte de los apuntes, enlaces y foros de la asignatura se han consultado otras fuentes como es el canal de youtube:
+[Falcon Masters](https://www.youtube.com/channel/UCJl1YajcPWTeJNsQhGyMIMg)
+
 
 
