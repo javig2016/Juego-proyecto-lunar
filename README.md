@@ -25,7 +25,7 @@ Para realizar esta versión del html, se han revisado todos los elementos de la 
 Esta otra versión se ha realizado con la ayuda del siguiente enlace, que ha permitido minimizar al máximo el espacio de cada uno de los documentos de la web y que funcione correctamente de cara a su uso. Esta versión se podrá ver en la rama identificada como _minify_.
 
 ### * Sprites:
-La elaboración de los -sprites- se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con -sprite generator-, cuyo enlace está en la siguiente web:  
+La elaboración de los _sprites_ se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con un _sprite generator_, cuyo enlace está en la siguiente web:  
 [CSS Sprite](http://css.spritegen.com/)
 ***
 ##Enlaces a fuentes de las imágenes:
