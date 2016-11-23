@@ -8,7 +8,7 @@ Creación con código html y css de un juego denominado proyecto lunar.
 4. Diseñar las páginas necesarias para el juego.
 5. Probar la web en diferentes resoluciones y diferentes navegadores.
 
- A continuación se pasa a indicar características especiales a reseñar de la práctica:
+A continuación se pasan a indicar características especiales a reseñar de la práctica:
  
 ### * Versión móvil y tablets:
 Sobre este aspecto se han usado los mismos archivos html, pero creando un segundo archivo de diseño css, denominado **estilowebmobile.css**, en dicho archivo se ha modificado el menú principal para que aparezca en posición vertical. Mientras que en la edición web normal el archivo de diseño se denomina **estiloweb.css**
@@ -32,7 +32,7 @@ La luna donde aterriza la nave espacial:
 [Imagen luna](https://c1.staticflickr.com/9/8218/8276112196_5e8083de11_b.jpg)
 
 Se han retocado la gran mayoría de las imágenes con la herramienta de dibujo [GIMP](https://www.gimp.org/).
-
+***
 ##Fuentes de ayuda:
 Para realizar dicha actividad a parte de los apuntes, enlaces y foros de la asignatura se han consultado otras fuentes como es el canal de youtube:
 [Falcon Masters](https://www.youtube.com/channel/UCJl1YajcPWTeJNsQhGyMIMg)
