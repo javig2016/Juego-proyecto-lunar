@@ -2,11 +2,14 @@
 Creación con código html y css de un juego denominado proyecto lunar.
 
 ##Fases del proyecto:
-1. Se ha realizado un boceto de lo que se solicita en la práctica, revisando el enunciado de la práctica y revisando los temas tratados en el foro de la asignatura, que han servido de gran ayuda para la elaboración del proyecto, entre los comentarios y ayuda de compañeros y del profesor.
+1. Se ha realizado un boceto de lo que se solicita en la práctica, revisando el enunciado de la práctica y los temas tratados en el foro de la asignatura, que han servido de gran ayuda para la elaboración del proyecto, entre los comentarios y ayuda de compañeros y del profesor.
 2. Buscar las imágenes que se van a necesitar.
-3. He empezado a realizar la página principal del juego y he creado un archivo css a la vez donde se irá dando formato a todos los documentos html del proyecto.
-4. Diseñar las páginas necesarias para el juego.
-5. Probar la web en diferentes resoluciones y diferentes navegadores.
+3. Crear y editar las imágenes y _sprites_ usados en el proyecto.
+4. Realizar la página principal del juego y crear un archivo css a la vez donde se irá dando formato a todos los documentos html del proyecto.
+5. Diseñar las páginas necesarias para el juego.
+6. Probar la web en diferentes resoluciones y diferentes navegadores.
+7. Crear el diseño para dispositivos móviles, modificando solamente el diseño.
+8. Certificar que todas las páginas html y los archivos de diseño css están correctamente creados mediante las herramientas de validación de [**W3C**](https://www.w3.org/).
 
 A continuación se pasan a indicar características especiales a reseñar de la práctica:
  
