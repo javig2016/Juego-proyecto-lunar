@@ -8,6 +8,18 @@ Creación con código html y css de un juego denominado proyecto lunar.
 4. Diseñar las páginas necesarias para el juego.
 5. Probar la web en diferentes resoluciones y diferentes navegadores.
 
+ A continuación se pasa a indicar características especiales a reseñar de la práctica:
+ 
+### * Versión móvil y tablets:
+Sobre este aspecto se han usado los mismos archivos html, pero creando un segundo archivo de diseño css, denominado **estilowebmobile.css**, en dicho archivo se ha modificado el menú principal para que aparezca en posición vertical. Mientras que en la edición web normal el archivo de diseño se denomina **estiloweb.css**
+
+Cabe indicar que para que se pudiera usar el mismo documento html y alternar el uso entre un estilo y otro se han añadido 2 líneas de código en html que son las siguientes:
+
+"<link rel='stylesheet' media='screen and (min-width: 721px)' href='css/estiloweb.css' />"
+"<link rel='stylesheet' media='screen and (max-width: 720px)' href='css/estilowebmobile.css' />"
+
+Ambas líneas aparecen en todos los documentos html de la web para así poder alternar de un dispositivo a otro.
+
 ### * Sprites:
 La elaboración de los -sprites- se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con -sprite generator-, cuyo enlace está en la siguiente web:
 [CSS Sprite](http://css.spritegen.com/)
