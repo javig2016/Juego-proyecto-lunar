@@ -17,7 +17,7 @@ Cabe indicar que para que se pudiera usar el mismo documento html y alternar el 
 
 ### * Sprites:
 La elaboración de los -sprites- se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con -sprite generator-, cuyo enlace está en la siguiente web:
-[CSS Sprite](http://css.spritegen.com/)  
+[CSS Sprite](http://css.spritegen.com/)..
 
 ##Enlaces a fuentes de las imágenes:
 Todas las imágenes que se han usado están etiquetadas con licencia de reutilización con modificaciones.
