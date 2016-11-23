@@ -15,11 +15,11 @@ Sobre este aspecto se han usado los mismos archivos html, pero creando un segund
 
 Cabe indicar que para que se pudiera usar el mismo documento html y alternar el uso entre un estilo y otro se han añadido 2 líneas de código en html para poder realizar la selección de un estilo u otro dependiendo del tamaño que adopte el navegador. Ambas líneas aparecen en todos los documentos html de la web para así poder alternar de un dispositivo a otro.
 
-### * Versión identada (indent):
-Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. Esta versión se podrá ver en la rama identificada como -indent-.
+### * Versión identada (_indent_):
+Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. Esta versión se podrá ver en la rama identificada como _indent_.
 
-### * Versión reducida (minify):
-Esta otra versión se ha realizado con la ayuda del siguiente enlace, que ha permitido minimizar al máximo el espacio de cada uno de los documentos de la web y que funcione correctamente de cara a su uso. Esta versión se podrá ver en la rama identificada como -minify-
+### * Versión reducida (_minify_):
+Esta otra versión se ha realizado con la ayuda del siguiente enlace, que ha permitido minimizar al máximo el espacio de cada uno de los documentos de la web y que funcione correctamente de cara a su uso. Esta versión se podrá ver en la rama identificada como _minify_.
 
 ### * Sprites:
 La elaboración de los -sprites- se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con -sprite generator-, cuyo enlace está en la siguiente web:  
