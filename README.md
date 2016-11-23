@@ -22,7 +22,7 @@ Cabe indicar que para que se pudiera usar el mismo documento html y alternar el 
 Para realizar esta versión del html, se han revisado todos los elementos de la página web y se han colocado de la manera correcta para su mejor visualización. Esta versión se podrá ver en la rama identificada como _indent_.
 
 ### * Versión reducida (_minify_):
-Esta otra versión se ha realizado con la ayuda del siguiente enlace, que ha permitido minimizar al máximo el espacio de cada uno de los documentos de la web y que funcione correctamente de cara a su uso. Esta versión se podrá ver en la rama identificada como _minify_.
+Esta otra versión se ha realizado con la ayuda de la siguiente web [HTML Minifier](http://www.willpeavy.com/minifier/), que ha permitido minimizar al máximo el espacio de cada uno de los documentos de la web y que funcione correctamente de cara a su uso. Esta versión se podrá ver en la rama identificada como _minify_.
 
 ### * Sprites:
 La elaboración de los _sprites_ se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con un _sprite generator_, cuyo enlace está en la siguiente web:  
