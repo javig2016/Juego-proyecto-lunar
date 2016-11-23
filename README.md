@@ -15,8 +15,8 @@ Sobre este aspecto se han usado los mismos archivos html, pero creando un segund
 
 Cabe indicar que para que se pudiera usar el mismo documento html y alternar el uso entre un estilo y otro se han añadido 2 líneas de código en html que son las siguientes:
 
-"<link rel='stylesheet' media='screen and (min-width: 721px)' href='css/estiloweb.css' />"
-"<link rel='stylesheet' media='screen and (max-width: 720px)' href='css/estilowebmobile.css' />"
+><link rel='stylesheet' media='screen and (min-width: 721px)' href='css/estiloweb.css' />
+><link rel='stylesheet' media='screen and (max-width: 720px)' href='css/estilowebmobile.css' />
 
 Ambas líneas aparecen en todos los documentos html de la web para así poder alternar de un dispositivo a otro.
 
