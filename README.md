@@ -16,8 +16,8 @@ Sobre este aspecto se han usado los mismos archivos html, pero creando un segund
 Cabe indicar que para que se pudiera usar el mismo documento html y alternar el uso entre un estilo y otro se han añadido 2 líneas de código en html para poder realizar la selección de un estilo u otro dependiendo del tamaño que adopte el navegador. Ambas líneas aparecen en todos los documentos html de la web para así poder alternar de un dispositivo a otro.
 
 ### * Sprites:
-La elaboración de los -sprites- se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con -sprite generator-, cuyo enlace está en la siguiente web:
-[CSS Sprite](http://css.spritegen.com/)..
+La elaboración de los -sprites- se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con -sprite generator-, cuyo enlace está en la siguiente web:  
+[CSS Sprite](http://css.spritegen.com/)
 
 ##Enlaces a fuentes de las imágenes:
 Todas las imágenes que se han usado están etiquetadas con licencia de reutilización con modificaciones.
