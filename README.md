@@ -8,6 +8,11 @@ Creación con código html y css de un juego denominado proyecto lunar.
 4. Diseñar las páginas necesarias para el juego.
 5. Probar la web en diferentes resoluciones y diferentes navegadores.
 
+###Sprites:
+La elaboración de los -sprites- se ha realizado mediante el uso de la herramienta GIMP, una vez creados se ha generado un único arhivo con -sprite generator-, cuyo enlace está en la siguiente web:
+[CSS Sprite](http://css.spritegen.com/)
+..
+
 ##Enlaces a fuentes de las imágenes:
 Todas las imágenes que se han usado están etiquetadas con licencia de reutilización con modificaciones.
 
