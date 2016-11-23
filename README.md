@@ -9,7 +9,7 @@ Creación con código html y css de un juego denominado proyecto lunar.
 5. Diseñar las páginas necesarias para el juego.
 6. Probar la web en diferentes resoluciones y diferentes navegadores.
 7. Crear el diseño para dispositivos móviles, modificando solamente el diseño.
-8. Certificar que todas las páginas html y los archivos de diseño css están correctamente creados mediante las herramientas de validación de [**W3C**](https://www.w3.org/).
+8. Revisar que todas las páginas html y los archivos de diseño css están correctamente creados y no contienen errores, mediante las herramientas de validación de [**W3C**](https://www.w3.org/).
 
 A continuación se pasan a indicar características especiales a reseñar de la práctica:
  
